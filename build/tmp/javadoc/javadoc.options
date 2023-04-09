@@ -1,0 +1,14 @@
+-classpath '/home/john/IdeaProjects/OpenChat/build/classes/java/main:/home/john/IdeaProjects/OpenChat/build/resources/main'
+-d '/home/john/IdeaProjects/OpenChat/build/docs/javadoc'
+-doctitle 'OpenChat 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'OpenChat 1.0-SNAPSHOT API'
+'/home/john/IdeaProjects/OpenChat/src/main/java/Frames.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/AddressButtonsCreateServer.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/ServerSide/ClientHandler.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/ServerSide/Server.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/AddressButtonsConnectServer.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/ClientSide/Client.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/Main.java'
+'/home/john/IdeaProjects/OpenChat/src/main/java/StartMenuButtons.java'
